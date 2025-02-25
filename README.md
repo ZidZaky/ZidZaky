@@ -34,9 +34,9 @@
 
 ### 🌟 Proyek Terbaru
 
-- 🚀 **SICAMPERENIK** — Sistem Informasi Capaian dan Monitoring Pengadaan Secara Elektronik.
+- 🚀 **JELAJAHKULINER** — Aplikasi Pelacakan PKL.
 - 🌱 **Website Sekolah Berkebutuhan Khusus** — Platform komunikasi antara sekolah dan orang tua.
-- 🏙️ **Payung Gantung Terbentang** — Solusi untuk mengurangi Urban Heat Island (UHI) di Surabaya.
+- 🏙️ **Arsitektur Payung Gantung Terbentang** — Analisis Solusi untuk mengurangi Urban Heat Island (UHI) di Surabaya.
 
 ---
 
