@@ -1,37 +1,53 @@
-# Halo semua! 
+## 👋 Halo semua!
 
-Perkenalkan nama saya **Zidan Irfan Zaky**.<br>
+### 🙌 Perkenalkan, saya **Zidan Irfan Zaky**
 
-Saya seorang **Web Developer** yang sedang berkembang.<br>
+💻 Seorang **Web Developer** yang sedang berkembang dan bersemangat dalam membangun aplikasi web interaktif dan responsif. Saat ini saya sedang mengeksplorasi teknologi seperti **Laravel**, **PHP**, **Bootstrap**, dan **Leaflet.js**.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/zidan-zaky-21a465244/) ku ya.
+🌐 Temukan saya di [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zidan-zaky-21a465244/)](https://www.linkedin.com/in/zidan-zaky-21a465244/)
 
-GitHub Statistics
- ---
+---
+
+### 🚀 Teknologi & Tools
+
 <p align="left">
-<a href="https://github.com/ZidZaky">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZidZaky&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZidZaky&layout=compact&theme=algolia"/>
-</a>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+---
 
+### 🔥 GitHub Statistics
 
+<p align="center">
+  <a href="https://github.com/ZidZaky">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZidZaky&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZidZaky&layout=compact&theme=algolia"/>
+  </a>
+</p>
 
+---
 
+### 🌟 Proyek Terbaru
 
+- 🚀 **SICAMPERENIK** — Sistem Informasi Capaian dan Monitoring Pengadaan Secara Elektronik.
+- 🌱 **Website Sekolah Berkebutuhan Khusus** — Platform komunikasi antara sekolah dan orang tua.
+- 🏙️ **Payung Gantung Terbentang** — Solusi untuk mengurangi Urban Heat Island (UHI) di Surabaya.
 
-<!--
-**ZidZaky/ZidZaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ✍️ Tentang Saya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Sedang mengembangkan aplikasi **Dashboard Laravel** dengan **Leaflet.js**.
+- 🌱 Saat ini mempelajari **Flutter** untuk pengembangan aplikasi mobile.
+- 🎮 Ketua UKM **Telkom University Surabaya Esports**.
+
+✨ _"Belajar dari proses, berkembang dari tantangan."_ ✨
+
+---
+
+📫 **Hubungi saya di:** [LinkedIn](https://www.linkedin.com/in/zidan-zaky-21a465244/) | ✉️ zidanirfanzaky@gmail.com
